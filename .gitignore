@@ -1,0 +1,21 @@
+﻿# Build artifacts
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Others
+*.log
+*.tlog
+*.dbmdl
+*.pdb
+*.cache
